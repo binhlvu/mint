@@ -1,0 +1,14 @@
+Data source name,Variable Id,Standard Variable Name,Long Variable Name,Unit,Missing Value/FillValue,Value Max,Value Min,Calendar,Cell Method,Scale Factor,Temporal Coverage,Data freshness,Geographic coverage polygon,Geographic coverage name
+ECMWF ERA 20C,longitude,model_grid_node__longitude,longitude,,,,,,,,,,"Polygon ((12.0 24.0, 12.0 32.0, 3.0 32.0, 3.0 24.0, 12.0 24.0 ))",South Sudan
+ECMWF ERA 20C,latitude,model_grid_node__latitude,latitude,,,,,,,,,,"Polygon ((12.0 24.0, 12.0 32.0, 3.0 32.0, 3.0 24.0, 12.0 24.0 ))",South Sudan
+ECMWF ERA 20C,time,,time,hours since 1900-01-01 00:00:0.0,,,,gregorian,,,,,"Polygon ((12.0 24.0, 12.0 32.0, 3.0 32.0, 3.0 24.0, 12.0 24.0 ))",South Sudan
+ECMWF ERA 20C,sp,surface_air_pressure,Surface pressure,,,,,,,,,,"Polygon ((12.0 24.0, 12.0 32.0, 3.0 32.0, 3.0 24.0, 12.0 24.0 ))",South Sudan
+ECMWF ERA 20C,tcc,cloud_area_fraction,Total cloud cover,,,,,,,,,,"Polygon ((12.0 24.0, 12.0 32.0, 3.0 32.0, 3.0 24.0, 12.0 24.0 ))",South Sudan
+ECMWF ERA 20C,u10,,10 metre U wind component,m s**-1,,,,,,,,,"Polygon ((12.0 24.0, 12.0 32.0, 3.0 32.0, 3.0 24.0, 12.0 24.0 ))",South Sudan
+ECMWF ERA 20C,v10,,10 metre V wind component,,,,,,,,,,"Polygon ((12.0 24.0, 12.0 32.0, 3.0 32.0, 3.0 24.0, 12.0 24.0 ))",South Sudan
+ECMWF ERA 20C,t2m,,2 metre temperature,K,,,,,,,,,"Polygon ((12.0 24.0, 12.0 32.0, 3.0 32.0, 3.0 24.0, 12.0 24.0 ))",South Sudan
+ECMWF ERA 20C,d2m,,2 metre dewpoint temperature,,,,,,,,,,"Polygon ((12.0 24.0, 12.0 32.0, 3.0 32.0, 3.0 24.0, 12.0 24.0 ))",South Sudan
+ECMWF ERA 20C,al,surface_albedo,Albedo,,,,,,,,,,"Polygon ((12.0 24.0, 12.0 32.0, 3.0 32.0, 3.0 24.0, 12.0 24.0 ))",South Sudan
+ECMWF ERA 20C,tp,,Total precipitation,m,,,,,,,,,"Polygon ((12.0 24.0, 12.0 32.0, 3.0 32.0, 3.0 24.0, 12.0 24.0 ))",South Sudan
+ECMWF ERA 20C,skt,,Skin temperature,K,,,,,,,,,"Polygon ((12.0 24.0, 12.0 32.0, 3.0 32.0, 3.0 24.0, 12.0 24.0 ))",South Sudan
+ECMWF ERA 20C,fsr,,Forecast surface roughness,m,,,,,,,,,"Polygon ((12.0 24.0, 12.0 32.0, 3.0 32.0, 3.0 24.0, 12.0 24.0 ))",South Sudan

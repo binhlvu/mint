@@ -1,0 +1,10 @@
+version: '2'
+services:
+    karma:
+        container_name: web-karma
+        build: .
+        image: isi/karma:2.053
+        volumes:
+            - ../../volumes/karma-home:/root/karma
+        ports:
+            - 8080:8080

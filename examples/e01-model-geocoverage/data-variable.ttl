@@ -1,0 +1,98 @@
+<https://isi.edu/mint/data-catalog/ECMWF-ERA-20C> <http://www.w3.org/ns/dcat#dataset> <https://isi.edu/mint/data-catalog/ECMWF-ERA-20C/model_grid_node__longitude> .
+<https://isi.edu/mint/data-catalog/ECMWF-ERA-20C> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/dcat#Catalog> .
+<https://isi.edu/mint/data-catalog/ECMWF-ERA-20C/model_grid_node__longitude> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/dcat#Dataset> .
+<https://isi.edu/mint/geolocation/south-sudan> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/terms/Location> .
+<https://isi.edu/mint/data-catalog/ECMWF-ERA-20C> <http://purl.org/dc/elements/1.1/title> "ECMWF ERA 20C" .
+<https://isi.edu/mint/data-catalog/ECMWF-ERA-20C/model_grid_node__longitude> <http://purl.org/dc/terms/spatial> <https://isi.edu/mint/geolocation/south-sudan> .
+<https://isi.edu/mint/data-catalog/ECMWF-ERA-20C/model_grid_node__longitude> <http://purl.org/dc/elements/1.1/title> "model_grid_node__longitude" .
+<https://isi.edu/mint/geolocation/south-sudan> <http://www.opengis.net/ont/geosparql#asWKT> "<http://www.opengis.net/def/crs/OGC/1.3/CRS84> Polygon ((12.0 24.0, 12.0 32.0, 3.0 32.0, 3.0 24.0, 12.0 24.0 ))"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+<https://isi.edu/mint/geolocation/south-sudan> <http://xmlns.com/foaf/0.1/name> "South Sudan" .
+
+<https://isi.edu/mint/data-catalog/ECMWF-ERA-20C/model_grid_node__latitude> <http://purl.org/dc/elements/1.1/title> "model_grid_node__latitude" .
+<https://isi.edu/mint/data-catalog/ECMWF-ERA-20C> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/dcat#Catalog> .
+<https://isi.edu/mint/geolocation/south-sudan> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/terms/Location> .
+<https://isi.edu/mint/data-catalog/ECMWF-ERA-20C> <http://purl.org/dc/elements/1.1/title> "ECMWF ERA 20C" .
+<https://isi.edu/mint/data-catalog/ECMWF-ERA-20C/model_grid_node__latitude> <http://purl.org/dc/terms/spatial> <https://isi.edu/mint/geolocation/south-sudan> .
+<https://isi.edu/mint/data-catalog/ECMWF-ERA-20C/model_grid_node__latitude> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/dcat#Dataset> .
+<https://isi.edu/mint/data-catalog/ECMWF-ERA-20C> <http://www.w3.org/ns/dcat#dataset> <https://isi.edu/mint/data-catalog/ECMWF-ERA-20C/model_grid_node__latitude> .
+<https://isi.edu/mint/geolocation/south-sudan> <http://www.opengis.net/ont/geosparql#asWKT> "<http://www.opengis.net/def/crs/OGC/1.3/CRS84> Polygon ((12.0 24.0, 12.0 32.0, 3.0 32.0, 3.0 24.0, 12.0 24.0 ))"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+<https://isi.edu/mint/geolocation/south-sudan> <http://xmlns.com/foaf/0.1/name> "South Sudan" .
+
+<https://isi.edu/mint/data-catalog/ECMWF-ERA-20C> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/dcat#Catalog> .
+<https://isi.edu/mint/geolocation/south-sudan> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/terms/Location> .
+<https://isi.edu/mint/data-catalog/ECMWF-ERA-20C> <http://purl.org/dc/elements/1.1/title> "ECMWF ERA 20C" .
+<https://isi.edu/mint/geolocation/south-sudan> <http://www.opengis.net/ont/geosparql#asWKT> "<http://www.opengis.net/def/crs/OGC/1.3/CRS84> Polygon ((12.0 24.0, 12.0 32.0, 3.0 32.0, 3.0 24.0, 12.0 24.0 ))"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+<https://isi.edu/mint/geolocation/south-sudan> <http://xmlns.com/foaf/0.1/name> "South Sudan" .
+
+<https://isi.edu/mint/data-catalog/ECMWF-ERA-20C> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/dcat#Catalog> .
+<https://isi.edu/mint/data-catalog/ECMWF-ERA-20C> <http://www.w3.org/ns/dcat#dataset> <https://isi.edu/mint/data-catalog/ECMWF-ERA-20C/surface_air_pressure> .
+<https://isi.edu/mint/data-catalog/ECMWF-ERA-20C/surface_air_pressure> <http://purl.org/dc/terms/spatial> <https://isi.edu/mint/geolocation/south-sudan> .
+<https://isi.edu/mint/geolocation/south-sudan> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/terms/Location> .
+<https://isi.edu/mint/data-catalog/ECMWF-ERA-20C> <http://purl.org/dc/elements/1.1/title> "ECMWF ERA 20C" .
+<https://isi.edu/mint/data-catalog/ECMWF-ERA-20C/surface_air_pressure> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/dcat#Dataset> .
+<https://isi.edu/mint/data-catalog/ECMWF-ERA-20C/surface_air_pressure> <http://purl.org/dc/elements/1.1/title> "surface_air_pressure" .
+<https://isi.edu/mint/geolocation/south-sudan> <http://www.opengis.net/ont/geosparql#asWKT> "<http://www.opengis.net/def/crs/OGC/1.3/CRS84> Polygon ((12.0 24.0, 12.0 32.0, 3.0 32.0, 3.0 24.0, 12.0 24.0 ))"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+<https://isi.edu/mint/geolocation/south-sudan> <http://xmlns.com/foaf/0.1/name> "South Sudan" .
+
+<https://isi.edu/mint/data-catalog/ECMWF-ERA-20C/cloud_area_fraction> <http://purl.org/dc/elements/1.1/title> "cloud_area_fraction" .
+<https://isi.edu/mint/data-catalog/ECMWF-ERA-20C> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/dcat#Catalog> .
+<https://isi.edu/mint/data-catalog/ECMWF-ERA-20C> <http://www.w3.org/ns/dcat#dataset> <https://isi.edu/mint/data-catalog/ECMWF-ERA-20C/cloud_area_fraction> .
+<https://isi.edu/mint/data-catalog/ECMWF-ERA-20C/cloud_area_fraction> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/dcat#Dataset> .
+<https://isi.edu/mint/geolocation/south-sudan> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/terms/Location> .
+<https://isi.edu/mint/data-catalog/ECMWF-ERA-20C> <http://purl.org/dc/elements/1.1/title> "ECMWF ERA 20C" .
+<https://isi.edu/mint/data-catalog/ECMWF-ERA-20C/cloud_area_fraction> <http://purl.org/dc/terms/spatial> <https://isi.edu/mint/geolocation/south-sudan> .
+<https://isi.edu/mint/geolocation/south-sudan> <http://www.opengis.net/ont/geosparql#asWKT> "<http://www.opengis.net/def/crs/OGC/1.3/CRS84> Polygon ((12.0 24.0, 12.0 32.0, 3.0 32.0, 3.0 24.0, 12.0 24.0 ))"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+<https://isi.edu/mint/geolocation/south-sudan> <http://xmlns.com/foaf/0.1/name> "South Sudan" .
+
+<https://isi.edu/mint/data-catalog/ECMWF-ERA-20C> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/dcat#Catalog> .
+<https://isi.edu/mint/geolocation/south-sudan> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/terms/Location> .
+<https://isi.edu/mint/data-catalog/ECMWF-ERA-20C> <http://purl.org/dc/elements/1.1/title> "ECMWF ERA 20C" .
+<https://isi.edu/mint/geolocation/south-sudan> <http://www.opengis.net/ont/geosparql#asWKT> "<http://www.opengis.net/def/crs/OGC/1.3/CRS84> Polygon ((12.0 24.0, 12.0 32.0, 3.0 32.0, 3.0 24.0, 12.0 24.0 ))"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+<https://isi.edu/mint/geolocation/south-sudan> <http://xmlns.com/foaf/0.1/name> "South Sudan" .
+
+<https://isi.edu/mint/data-catalog/ECMWF-ERA-20C> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/dcat#Catalog> .
+<https://isi.edu/mint/geolocation/south-sudan> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/terms/Location> .
+<https://isi.edu/mint/data-catalog/ECMWF-ERA-20C> <http://purl.org/dc/elements/1.1/title> "ECMWF ERA 20C" .
+<https://isi.edu/mint/geolocation/south-sudan> <http://www.opengis.net/ont/geosparql#asWKT> "<http://www.opengis.net/def/crs/OGC/1.3/CRS84> Polygon ((12.0 24.0, 12.0 32.0, 3.0 32.0, 3.0 24.0, 12.0 24.0 ))"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+<https://isi.edu/mint/geolocation/south-sudan> <http://xmlns.com/foaf/0.1/name> "South Sudan" .
+
+<https://isi.edu/mint/data-catalog/ECMWF-ERA-20C> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/dcat#Catalog> .
+<https://isi.edu/mint/geolocation/south-sudan> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/terms/Location> .
+<https://isi.edu/mint/data-catalog/ECMWF-ERA-20C> <http://purl.org/dc/elements/1.1/title> "ECMWF ERA 20C" .
+<https://isi.edu/mint/geolocation/south-sudan> <http://www.opengis.net/ont/geosparql#asWKT> "<http://www.opengis.net/def/crs/OGC/1.3/CRS84> Polygon ((12.0 24.0, 12.0 32.0, 3.0 32.0, 3.0 24.0, 12.0 24.0 ))"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+<https://isi.edu/mint/geolocation/south-sudan> <http://xmlns.com/foaf/0.1/name> "South Sudan" .
+
+<https://isi.edu/mint/data-catalog/ECMWF-ERA-20C> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/dcat#Catalog> .
+<https://isi.edu/mint/geolocation/south-sudan> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/terms/Location> .
+<https://isi.edu/mint/data-catalog/ECMWF-ERA-20C> <http://purl.org/dc/elements/1.1/title> "ECMWF ERA 20C" .
+<https://isi.edu/mint/geolocation/south-sudan> <http://www.opengis.net/ont/geosparql#asWKT> "<http://www.opengis.net/def/crs/OGC/1.3/CRS84> Polygon ((12.0 24.0, 12.0 32.0, 3.0 32.0, 3.0 24.0, 12.0 24.0 ))"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+<https://isi.edu/mint/geolocation/south-sudan> <http://xmlns.com/foaf/0.1/name> "South Sudan" .
+
+<https://isi.edu/mint/data-catalog/ECMWF-ERA-20C> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/dcat#Catalog> .
+<https://isi.edu/mint/data-catalog/ECMWF-ERA-20C/surface_albedo> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/dcat#Dataset> .
+<https://isi.edu/mint/data-catalog/ECMWF-ERA-20C/surface_albedo> <http://purl.org/dc/elements/1.1/title> "surface_albedo" .
+<https://isi.edu/mint/data-catalog/ECMWF-ERA-20C/surface_albedo> <http://purl.org/dc/terms/spatial> <https://isi.edu/mint/geolocation/south-sudan> .
+<https://isi.edu/mint/geolocation/south-sudan> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/terms/Location> .
+<https://isi.edu/mint/data-catalog/ECMWF-ERA-20C> <http://purl.org/dc/elements/1.1/title> "ECMWF ERA 20C" .
+<https://isi.edu/mint/geolocation/south-sudan> <http://www.opengis.net/ont/geosparql#asWKT> "<http://www.opengis.net/def/crs/OGC/1.3/CRS84> Polygon ((12.0 24.0, 12.0 32.0, 3.0 32.0, 3.0 24.0, 12.0 24.0 ))"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+<https://isi.edu/mint/geolocation/south-sudan> <http://xmlns.com/foaf/0.1/name> "South Sudan" .
+<https://isi.edu/mint/data-catalog/ECMWF-ERA-20C> <http://www.w3.org/ns/dcat#dataset> <https://isi.edu/mint/data-catalog/ECMWF-ERA-20C/surface_albedo> .
+
+<https://isi.edu/mint/data-catalog/ECMWF-ERA-20C> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/dcat#Catalog> .
+<https://isi.edu/mint/geolocation/south-sudan> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/terms/Location> .
+<https://isi.edu/mint/data-catalog/ECMWF-ERA-20C> <http://purl.org/dc/elements/1.1/title> "ECMWF ERA 20C" .
+<https://isi.edu/mint/geolocation/south-sudan> <http://www.opengis.net/ont/geosparql#asWKT> "<http://www.opengis.net/def/crs/OGC/1.3/CRS84> Polygon ((12.0 24.0, 12.0 32.0, 3.0 32.0, 3.0 24.0, 12.0 24.0 ))"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+<https://isi.edu/mint/geolocation/south-sudan> <http://xmlns.com/foaf/0.1/name> "South Sudan" .
+
+<https://isi.edu/mint/data-catalog/ECMWF-ERA-20C> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/dcat#Catalog> .
+<https://isi.edu/mint/geolocation/south-sudan> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/terms/Location> .
+<https://isi.edu/mint/data-catalog/ECMWF-ERA-20C> <http://purl.org/dc/elements/1.1/title> "ECMWF ERA 20C" .
+<https://isi.edu/mint/geolocation/south-sudan> <http://www.opengis.net/ont/geosparql#asWKT> "<http://www.opengis.net/def/crs/OGC/1.3/CRS84> Polygon ((12.0 24.0, 12.0 32.0, 3.0 32.0, 3.0 24.0, 12.0 24.0 ))"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+<https://isi.edu/mint/geolocation/south-sudan> <http://xmlns.com/foaf/0.1/name> "South Sudan" .
+
+<https://isi.edu/mint/data-catalog/ECMWF-ERA-20C> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/dcat#Catalog> .
+<https://isi.edu/mint/geolocation/south-sudan> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/terms/Location> .
+<https://isi.edu/mint/data-catalog/ECMWF-ERA-20C> <http://purl.org/dc/elements/1.1/title> "ECMWF ERA 20C" .
+<https://isi.edu/mint/geolocation/south-sudan> <http://www.opengis.net/ont/geosparql#asWKT> "<http://www.opengis.net/def/crs/OGC/1.3/CRS84> Polygon ((12.0 24.0, 12.0 32.0, 3.0 32.0, 3.0 24.0, 12.0 24.0 ))"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+<https://isi.edu/mint/geolocation/south-sudan> <http://xmlns.com/foaf/0.1/name> "South Sudan" .
+
